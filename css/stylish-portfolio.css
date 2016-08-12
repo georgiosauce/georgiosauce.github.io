@@ -16,6 +16,21 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.text_over_image{
+    background-color:rgba(255,255,255,.5);
+    font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:50px;
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color:#232323;
+    height:100px;
+    line-height:100px;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
