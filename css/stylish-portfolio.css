@@ -16,6 +16,29 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.button{
+  display: block;
+  height: 150px;
+  width: 150px;
+  border-radius: 150px;
+  margin:0 auto;
+}
+
+.button-bhs{
+  background: url(../img/bulldog.png) center;
+  background-size: contain;
+}
+
+.button-rit{
+  background: url(../img/RIT.png) center;
+  background-size: contain;
+}
+
+.button-ritphys{
+    background: url(../img/physics.png) center;
+    background-size: contain;
+}
+
 .text_over_image{
     background-color:rgba(255,255,255,.5);
     font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
